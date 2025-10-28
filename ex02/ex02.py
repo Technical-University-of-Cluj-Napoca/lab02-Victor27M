@@ -4,4 +4,4 @@ def multiply_all(*args: int)->int:
         result *=num
     return result
 
-print(multiply_all(1, 2, 3, 4)) 
+print(multiply_all(2)) 
